@@ -1,0 +1,19 @@
+body{
+  width:100%;
+  background-color: green;
+  margin:0;
+}
+
+.fortnite{
+background-color:red;
+}
+
+.hello {
+  font-family: 'Hanalei Fill', cursive;
+}
+img{
+
+
+width:150px;
+border:20px solid blue;
+}
