@@ -15,5 +15,29 @@ img{
 
 
 width:150px;
-border:20px solid blue;
+border:20px solid yellow;
+}
+
+.red{
+  height: 100px; 
+  width: 100px;
+  background-color:red;
+border-radius:50%;
+position absolute;
+margin-left:20px;
+}
+.green{
+  position:relative;
+  left;50%;
+  top:50;
+}
+.curved{
+  border:none;
+  border-radius:50px;
+}
+
+.text {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  color:red;
 }
